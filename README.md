@@ -50,7 +50,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+
+
+
 ### :fire: My Stats :
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenWanyama3430&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarenWanyama3430&show_icons=true&locale=en&theme=tokyonight&no-bg=false&no-frame=false&count_private=true" alt="KarenWanyama3430" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=KarenWanyama3430&&theme=dark&background=000000)](https://git.io/streak-stats)
 
